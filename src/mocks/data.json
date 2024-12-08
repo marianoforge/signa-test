@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {
+      "id": "1",
+      "name": "Contract_2024.pdf",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "name": "Proposal.docx",
+      "status": "Signed"
+    },
+    {
+      "id": "3",
+      "name": "Agreement.pdf",
+      "status": "Declined"
+    }
+  ]
+}
